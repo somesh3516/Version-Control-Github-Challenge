@@ -1,0 +1,3 @@
+1. The terminal is a way to navigate through your computer and create documents/files with simple commands.
+2. The major difference between git and GitHub is that git is a decentralized or distributed version control system while GitHub is a centralized online service 
+3. We use GitHub because it lets multiple people collaborate on a project together regardless of team members locations.
